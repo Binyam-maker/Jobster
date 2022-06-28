@@ -1,3 +1,3 @@
 # Jobster
 
-Job searchin helper app with react-redux toolkit
+Job searching helper app with react-redux toolkit
